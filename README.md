@@ -12,10 +12,6 @@
 
 * Flex-box
 
-## Feito por:
-
-### Joana Santos
-
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+## Feito por: João Manuel
 
 ```
